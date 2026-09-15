@@ -91,15 +91,11 @@
 marks = [78, 45, 89, 92, 56, 34, 67, 89, 78, 90]
 
 print("Number of Students:",len(marks))
-
 print("Highest Marks:",max(marks))
-
 print("Lowest Marks:",min(marks))
-
 print("Sorted Marks:",sorted(marks))
 
 unique_marks = set(marks)
-
 print("Unique Marks:",unique_marks)
 
 # Student Records as Dictionary
